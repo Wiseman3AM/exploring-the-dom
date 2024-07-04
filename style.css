@@ -1,0 +1,29 @@
+.darkmode{
+    background-color: black;
+    color: white;
+}
+
+body{
+    margin-left: 1.5em;
+    margin-right: 1.5em;
+    background-color: beige;
+}
+
+.message{
+    
+}
+
+.edible{
+    padding-top: 2em;
+}
+
+h1 {
+    color: navy;
+    font-weight: bold;
+}
+
+ol{
+    color: navy;
+    font-weight: bold;
+    font-size: larger; 
+}
